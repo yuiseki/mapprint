@@ -84,7 +84,7 @@ export default {
     fallback: true
   },
   router: {
-    base: '/'
+    base: '/mapprint'
   },
   build: {
     /*
