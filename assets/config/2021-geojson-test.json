@@ -7,7 +7,7 @@
   "sources": [
     {
       "id" : "test",
-      "url" : "https://script.googleusercontent.com/macros/echo?user_content_key=_6_ZR0XLL0MbaI41b7arw1tKJ44ZRMzJXFJQgYMfmfqp-E5cBnQIhZwUQmD7bjdymn9B2TyvkttH7Lt_J_MeCymrpWuQcL-wm5_BxDlH2jW0nuo2oDemN9CCS2h10ox_1xSncGQajx_ryfhECjZEnEQtBr2DXtd2VVZ6e7KTde4_k47hKKS_Llyb1VlE15EZ8qun0TIBV1jJ2FWGfRqnKT0BdYNs3pinvJsw0wqpxiI&lib=MY-PLI9PNsbIhESkFzgRhtgxmTEkGC2HD",
+      "url" : "https://script.google.com/macros/s/AKfycby-pq1JfwEwXKpCSfTxBIGq05xn8lvffLxGeIaYBuWg2cb-srERBddiJQ/exec?confirmed=true",
       "type" : "geojson",
       "title" : "GHP2020デモ用GeoJSON",
       "title_en" : "GHP2020 Demo GeoJSON",
