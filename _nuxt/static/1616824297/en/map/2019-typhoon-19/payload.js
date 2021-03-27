@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/map/2019-typhoon-19", {data:[{updated_at:"3\u002F27\u002F2021, 5:51:37 AM"}],fetch:{},mutations:void 0});
