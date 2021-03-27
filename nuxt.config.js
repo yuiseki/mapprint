@@ -1,6 +1,6 @@
 import sortCSSmq from 'sort-css-media-queries'
 import i18n from './nuxt-i18n.config'
-import router from './nuxt-i18n.config'
+import router from './nuxt-router.config'
 
 export default {
   target: 'static',
@@ -90,7 +90,7 @@ export default {
     },
     fallback: true
   },
-  router: router,
+  router,
   build: {
     /*
     ** You can extend webpack config here
