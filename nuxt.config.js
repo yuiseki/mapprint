@@ -5,10 +5,7 @@ let router = {
   base: '/'
 }
 try {
-  import('./nuxt-router-override.config')
-    .then((module) => {
-      router = module
-    })
+  router = require('./nuxt-router-override.config')
 } finally {}
 
 export default {
