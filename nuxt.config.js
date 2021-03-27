@@ -1,8 +1,9 @@
 import sortCSSmq from 'sort-css-media-queries'
 import i18n from './nuxt-i18n.config'
+import router from './nuxt-i18n.config'
 
 export default {
-  mode: 'universal',
+  target: 'static',
   /*
   ** Headers of the page
   */
@@ -89,9 +90,7 @@ export default {
     },
     fallback: true
   },
-  router: {
-    base: process.env.GEN_BASE_PATH || '/'
-  },
+  router: router,
   build: {
     /*
     ** You can extend webpack config here
