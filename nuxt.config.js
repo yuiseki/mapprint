@@ -90,7 +90,7 @@ export default {
     fallback: true
   },
   router: {
-    base: '/mapprint'
+    base: process.env.GEN_BASE_PATH || '/'
   },
   build: {
     /*
