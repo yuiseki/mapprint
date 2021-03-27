@@ -1,6 +1,15 @@
 import sortCSSmq from 'sort-css-media-queries'
 import i18n from './nuxt-i18n.config'
-import router from './nuxt-router.config'
+
+let router = {
+  base: '/'
+};
+try {
+  import('./nuxt-router-override.config')
+    .then((module) => {
+      router = module
+    })
+} finally {}
 
 export default {
   target: 'static',
