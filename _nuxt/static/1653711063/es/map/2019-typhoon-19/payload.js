@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/es/map/2019-typhoon-19", {data:[{updated_at:"2022年05月28日04時11分"}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/map/2019-chiba-typhoon-15", {data:[{updated_at:"3\u002F27\u002F2021, 7:20:09 AM"}],fetch:{},mutations:void 0});
