@@ -1,21 +1,21 @@
 {
   "map_id":"2021-geojson-test",
-  "map_title":"GHP2020 デモ",
+  "map_title":"2021年 静岡県熱海市伊豆山 土砂崩れ 災害支援情報",
   "map_title_en":"GHP2020 Demo",
   "map_description":"",
   "map_image": null,
   "sources": [
     {
       "id" : "test",
-      "url" : "https://script.google.com/macros/s/AKfycby-pq1JfwEwXKpCSfTxBIGq05xn8lvffLxGeIaYBuWg2cb-srERBddiJQ/exec?confirmed=true",
+      "url" : "https://script.google.com/macros/s/AKfycbw0D0AjIFPBGbBXj3Zr5X1j_34fwIj8RSflwc6EJrDp97pMdRRnyNcMOOHvuRHZOslJdg/exec?confirmed=true",
       "type" : "geojson",
-      "title" : "GHP2020デモ用GeoJSON",
+      "title" : "2021年 静岡県熱海市伊豆山 土砂崩れ 災害支援情報",
       "title_en" : "GHP2020 Demo GeoJSON",
       "show" : true
     }
   ],
-  "default_hash": "36.40706898962824,139.00427694616945-35.6385475171373,140.277266400681534",
-  "center" : [139.42620262933877, 35.93546870323782],
+  "default_hash": "35.188802185972264,138.87163674067477-35.047024043551204,139.17422312964806",
+  "center" : [139.17422312964806, 35.188802185972264],
   "type":"geojson",
   "layer_settings":{
     "未分類": {
