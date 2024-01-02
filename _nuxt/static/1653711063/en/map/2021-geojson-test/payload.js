@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/map/2021-geojson-test", {data:[{updated_at:"5\u002F28\u002F2022, 4:11:02 AM"}],fetch:{},mutations:void 0});
